@@ -1,0 +1,169 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fffaf3;
+  color: #2e2e2e;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-image: url('https://img.freepik.com/free-photo/fantasy-forest-at-night-glowing-flowers-and-lights-generative-ai_188544-12680.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+.lumiar {
+  background-color: #e3f2fd;
+  padding: 10px;
+  border-left: 5px solid #42a5f5;
+  border-radius: 6px;
+}
+
+.lumiar-text {
+  background-color: #f0f9ff;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.mordar {
+  background-color: #ffebee;
+  padding: 10px;
+  border-left: 5px solid #ef5350;
+  border-radius: 6px;
+}
+
+.mordar-text {
+  background-color: #ffe5e5;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.elden {
+  background-color: #e8f5e9;
+  padding: 10px;
+  border-left: 5px solid #66bb6a;
+  border-radius: 6px;
+}
+
+.elden-text {
+  background-color: #ecfff0;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.danger {
+  background-color: #fff3e0;
+  padding: 10px;
+  border-left: 5px solid #fb8c00;
+  border-radius: 6px;
+}
+
+.danger-text {
+  background-color: #fff8e1;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.heroes {
+  background-color: #ede7f6;
+  padding: 10px;
+  border-left: 5px solid #8e24aa;
+  border-radius: 6px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  background: linear-gradient(to right, #f3e5f5, #e1bee7);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+th, td {
+  border: 1px solid #d1c4e9;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #ce93d8;
+  color: #2e2e2e;
+}
+
+footer {
+  text-align: center;
+  background-color: #512da8;
+  color: white;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+footer a {
+  color: #ffccff;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+header a {
+  color: white;
+}
+
+.morian-shadow {
+  background-color: #fbe9e7;
+  border-left: 5px solid #d84315;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 6px;
+  color: #3e2723;
+}
+
+main img {
+  width: 350px;
+  height: 400px;
+  display: block;
+  margin: 0 auto;
+}
+
+.morian {
+  text-align: center;
+}
+
+.heroes-image {
+  max-width: 400px;
+  height: 500px;
+  display: block;
+  margin: 30px auto 10px auto;
+}
+
+.hero-card {
+  background-color: #f3f0ff;
+  border-left: 5px solid #7e57c2;
+  padding: 15px;
+  border-radius: 6px;
+  max-width: 600px;
+  margin: 20px auto;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.hero-card h3 {
+  margin-top: 10px;
+  color: #4a148c;
+}
+
+.hero-card p {
+  font-size: 14px;
+  color: #333;
+}
